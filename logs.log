@@ -25659,3 +25659,16 @@ joblib.externals.loky.process_executor.TerminatedWorkerError: A worker process m
 
 
 2025-06-10 16:15:21,236:INFO:Initializing create_model()
+2025-06-10 16:31:07,296:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-10 16:31:07,296:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-10 16:31:07,296:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-10 16:31:07,297:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-10 16:31:10,032:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-06-10 16:31:10,250:WARNING:E:\NoCodeML\app.py:30: DtypeWarning: Columns (7,8,18,25) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv('dataset.csv', index_col=None)
+

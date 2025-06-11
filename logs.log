@@ -27964,3 +27964,16 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2025-06-11 06:40:35,469:WARNING:E:\NoCodeML\app.py:30: DtypeWarning: Columns (7,8,18,25) have mixed types. Specify dtype option on import or set low_memory=False.
   df = pd.read_csv('dataset.csv', index_col=None)
 
+2025-06-11 06:47:39,462:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-11 06:47:39,463:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-11 06:47:39,463:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-11 06:47:39,463:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-11 06:47:42,535:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2025-06-11 06:47:42,803:WARNING:E:\NoCodeML\app.py:30: DtypeWarning: Columns (7,8,18,25) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv('dataset.csv', index_col=None)
+

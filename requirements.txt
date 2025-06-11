@@ -1,5 +1,5 @@
-streamlit==1.45.1
+streamlit
 pandas               
-pycaret==3.3.2
-plotly==6.1.2
-scikit-learn==1.7.0
+pycaret
+plotly
+scikit-learn
